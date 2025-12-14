@@ -13,7 +13,7 @@
 
 <p align="center">
   <em>
-    🎓 <b>2nd Year Bachelor of Data Science</b> student at  
+    🎓 <b>3rd Year Bachelor of Data Science</b> student at  
     <a href="https://aaft.com/"><b>Asian Academy of Film & Television, Noida</b></a>  
     <br><br>
     🤖 Passionate about <b>Machine Learning</b>, <b>Data Analytics</b> & building real-world intelligent systems  
